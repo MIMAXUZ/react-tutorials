@@ -1,0 +1,25 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+
+         {
+             "name": "Launch App",
+             "userDataDir": false,
+             "type": "edge",
+             "request": "launch",
+             "version": "canary",
+             //"port": 3000,
+             //Only For Edge Chremium
+             "url": "http://localhost:3000",
+             "webRoot": "${workspaceRoot}/src"
+         }
+        //  {
+        //      "name": "Running Browser",
+        //      "userDataDir": false,
+        //      "type": "chrome",
+        //      "request": "launch",
+        //      "url": "http://localhost:3000",
+        //      "webRoot": "${workspaceRoot}/src"
+        //  }
+    ]
+}
