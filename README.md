@@ -2,8 +2,8 @@
 These repository for  ReactJS,  The small projects created in tutorials on React Js courses.
 
 ## App requirements
-*  Visual Studio Code (1.x4) + Or WebStorm, SublimeText
-* .Node JS (10.x)
+*  Visual Studio Code (1.4.x), WebStorm or SublimeText
+*  Node JS (10.x)
 *  NPM or Yarn
 
 ### License
